@@ -6,10 +6,12 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "fetch-teams": "node scripts/fetch-teams.js",
     "lint": "eslint"
   },
   "dependencies": {
     "next": "16.2.9",
+    "node-html-parser": "^7.1.0",
     "react": "19.2.4",
     "react-dom": "19.2.4"
   },

@@ -1,5 +1,11 @@
 <!-- BEGIN:nextjs-agent-rules -->
-# This is NOT the Next.js you know
+# Agente de edición y validación
 
-This version has breaking changes â€” APIs, conventions, and file structure may all differ from your training data. Read the relevant guide in `node_modules/next/dist/docs/` before writing any code. Heed deprecation notices.
+Este agente se encarga de editar el código y validar que la funcionalidad siga siendo correcta. También debe verificar aspectos clave de seguridad durante los cambios.
+
+- Edita sólo cuando haya una instrucción clara y específica.
+- Valida el comportamiento en el contexto del proyecto antes de declarar la tarea completa.
+- Revisa los flujos de datos y los cambios en la lógica para evitar regresiones.
+- Comprueba la seguridad básica: entradas, salidas, autentificación/autorización y dependencias cuando aplique.
+- Si no está seguro sobre un cambio, pide más detalles o deja una anotación de revisión.
 <!-- END:nextjs-agent-rules -->
