@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Canada",
+    "source": "wikipedia",
+    "sourceUrl": "Canada men's national soccer team",
+    "playersCount": 30
+  },
+  {
+    "name": "Mexico",
+    "source": "wikipedia",
+    "sourceUrl": "Mexico national football team",
+    "playersCount": 30
+  },
+  {
+    "name": "United States",
+    "source": "wikipedia",
+    "sourceUrl": "United States men's national soccer team",
+    "playersCount": 30
+  },
+  {
+    "name": "Argentina",
+    "source": "wikipedia",
+    "sourceUrl": "Argentina national football team",
+    "playersCount": 30
+  },
+  {
+    "name": "Brazil",
+    "source": "wikipedia",
+    "sourceUrl": "Brazil national football team",
+    "playersCount": 30
+  },
+  {
+    "name": "Germany",
+    "source": "wikipedia",
+    "sourceUrl": "Germany national football team",
+    "playersCount": 30
+  },
+  {
+    "name": "France",
+    "source": null,
+    "sourceUrl": null,
+    "playersCount": 0
+  },
+  {
+    "name": "Spain",
+    "source": null,
+    "sourceUrl": null,
+    "playersCount": 0
+  },
+  {
+    "name": "England",
+    "source": null,
+    "sourceUrl": null,
+    "playersCount": 0
+  },
+  {
+    "name": "Portugal",
+    "source": null,
+    "sourceUrl": null,
+    "playersCount": 0
+  },
+  {
+    "name": "Netherlands",
+    "source": null,
+    "sourceUrl": null,
+    "playersCount": 0
+  },
+  {
+    "name": "Belgium",
+    "source": null,
+    "sourceUrl": null,
+    "playersCount": 0
+  },
+  {
+    "name": "Italy",
+    "source": null,
+    "sourceUrl": null,
+    "playersCount": 0
+  },
+  {
+    "name": "Uruguay",
+    "source": null,
+    "sourceUrl": null,
+    "playersCount": 0
+  },
+  {
+    "name": "Colombia",
+    "source": null,
+    "sourceUrl": null,
+    "playersCount": 0
+  },
+  {
+    "name": "Chile",
+    "source": "wikipedia",
+    "sourceUrl": "Chile national football team",
+    "playersCount": 30
+  },
+  {
+    "name": "Peru",
+    "source": null,
+    "sourceUrl": null,
+    "playersCount": 0
+  },
+  {
+    "name": "Ecuador",
+    "source": null,
+    "sourceUrl": null,
+    "playersCount": 0
+  },
+  {
+    "name": "Paraguay",
+    "source": null,
+    "sourceUrl": null,
+    "playersCount": 0
+  },
+  {
+    "name": "Bolivia",
+    "source": null,
+    "sourceUrl": null,
+    "playersCount": 0
+  },
+  {
+    "name": "Venezuela",
+    "source": null,
+    "sourceUrl": null,
+    "playersCount": 0
+  },
+  {
+    "name": "Japan",
+    "source": null,
+    "sourceUrl": null,
+    "playersCount": 0
+  },
+  {
+    "name": "South Korea",
+    "source": null,
+    "sourceUrl": null,
+    "playersCount": 0
+  },
+  {
+    "name": "Australia",
+    "source": "wikipedia",
+    "sourceUrl": "Australia national soccer team",
+    "playersCount": 2
+  },
+  {
+    "name": "Iran",
+    "source": "wikipedia",
+    "sourceUrl": "Iran national football team",
+    "playersCount": 30
+  },
+  {
+    "name": "Saudi Arabia",
+    "source": "wikipedia",
+    "sourceUrl": "Saudi Arabia national football team",
+    "playersCount": 30
+  },
+  {
+    "name": "United Arab Emirates",
+    "source": "wikipedia",
+    "sourceUrl": "United Arab Emirates national football team",
+    "playersCount": 30
+  },
+  {
+    "name": "Iraq",
+    "source": "wikipedia",
+    "sourceUrl": "Iraq national football team",
+    "playersCount": 30
+  },
+  {
+    "name": "Morocco",
+    "source": null,
+    "sourceUrl": null,
+    "playersCount": 0
+  },
+  {
+    "name": "Tunisia",
+    "source": null,
+    "sourceUrl": null,
+    "playersCount": 0
+  },
+  {
+    "name": "Nigeria",
+    "source": null,
+    "sourceUrl": null,
+    "playersCount": 0
+  },
+  {
+    "name": "Senegal",
+    "source": null,
+    "sourceUrl": null,
+    "playersCount": 0
+  },
+  {
+    "name": "Cameroon",
+    "source": null,
+    "sourceUrl": null,
+    "playersCount": 0
+  },
+  {
+    "name": "Ghana",
+    "source": null,
+    "sourceUrl": null,
+    "playersCount": 0
+  },
+  {
+    "name": "Egypt",
+    "source": null,
+    "sourceUrl": null,
+    "playersCount": 0
+  },
+  {
+    "name": "Switzerland",
+    "source": "wikipedia",
+    "sourceUrl": "Switzerland men's national football team",
+    "playersCount": 30
+  },
+  {
+    "name": "Austria",
+    "source": null,
+    "sourceUrl": null,
+    "playersCount": 0
+  },
+  {
+    "name": "Poland",
+    "source": null,
+    "sourceUrl": null,
+    "playersCount": 0
+  },
+  {
+    "name": "Croatia",
+    "source": null,
+    "sourceUrl": null,
+    "playersCount": 0
+  },
+  {
+    "name": "Denmark",
+    "source": null,
+    "sourceUrl": null,
+    "playersCount": 0
+  },
+  {
+    "name": "Sweden",
+    "source": null,
+    "sourceUrl": null,
+    "playersCount": 0
+  },
+  {
+    "name": "Norway",
+    "source": null,
+    "sourceUrl": null,
+    "playersCount": 0
+  },
+  {
+    "name": "Turkey",
+    "source": null,
+    "sourceUrl": null,
+    "playersCount": 0
+  },
+  {
+    "name": "Czech Republic",
+    "source": "wikipedia",
+    "sourceUrl": "Czech Republic national football team",
+    "playersCount": 30
+  },
+  {
+    "name": "Scotland",
+    "source": "wikipedia",
+    "sourceUrl": "Scotland national football team",
+    "playersCount": 30
+  }
+]
